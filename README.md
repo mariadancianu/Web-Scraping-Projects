@@ -4,7 +4,7 @@ A set of projects to learn and experiment Web Scraping with Python.
 Project  | Description | Dataset size 
 ------------- | ------------- | -------------
 [greatplacetowork-scraper](https://github.com/mariadancianu/Greatplacetowork-Scraper) | Scrape companies information | Small 
-
+[rottentomatoes-scraper](https://github.com/mariadancianu/Rottentomatoes-Scraper) | Scrape movies data | Small 
 
 
 ## Technologies 
@@ -14,6 +14,7 @@ Python version: 3.11.
 Python libraries:
 - BeautifulSoup
 - selenium 
+- urllib
 - pandas
 
 ## Status
