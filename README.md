@@ -3,9 +3,9 @@ A set of projects to learn and experiment Web Scraping with Python.
 
 Project  | Description | Dataset size 
 ------------- | ------------- | -------------
-[greatplacetowork-scraper](https://github.com/mariadancianu/Greatplacetowork-Scraper) | Scrape companies data | Small 
-[rottentomatoes-scraper](https://github.com/mariadancianu/Rottentomatoes-Scraper) | Scrape movies data | Small 
-[euronics-scraper](https://github.com/mariadancianu/Euronics-Scraper) | Scrape smart TV products data from e-commerce platform| Small 
+[greatplacetowork-web-scraper](https://github.com/mariadancianu/Greatplacetowork-Web-Scraper) | Scrape companies data | Small 
+[rottentomatoes-web-scraper](https://github.com/mariadancianu/Rottentomatoes-Web-Scraper) | Scrape movies data | Small 
+[euronics-web-scraper](https://github.com/mariadancianu/Euronics-Web-Scraper) | Scrape smart TV products data from e-commerce platform| Small 
 
 ## Technologies 
 
